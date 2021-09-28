@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import { Anchor, Drawer, Button } from 'antd';
 
-import Logo from '../components/Logo';
+import Logo from '../../components/Logo';
 
 const { Link } = Anchor;
 
